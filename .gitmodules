@@ -1,0 +1,3 @@
+[submodule "Sundries"]
+	path = Sundries
+	url = git@github.com:sunnysea/Sundries.git
